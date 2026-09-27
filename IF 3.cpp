@@ -8,7 +8,7 @@ int main()
 	cout << " Enter your annual income in PKR ";
 	cin >> r;
     	
-	if(r >= 3500000)
+	if(r >= 4000000)
 	{
 		cout << " You are RICH ";
 	}
